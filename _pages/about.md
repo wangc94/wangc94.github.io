@@ -19,9 +19,12 @@ social: false  # includes social icons at the bottom of the page
 Ph.D. from Tianjin University.<br>
 No.92 Weijin Road, Nankai District,Tianjin,300072<br>
 wangc@tju.edu.cn | wangc1994@outlook.com<br>
-<a href=""><img src="/assets/img/orcid.svg"></a>
-
-**Research Interest**: ML & DL for spatiotemporal sequence prediction, 
+<a href="https://orcid.org/0000-0003-2262-2874"><img src="/assets/img/orcid.svg" ></a>
+<a href="https://github.com/wangc94"><img src="/assets/img/github-fill.svg"></a>
+<a href="https://hub.docker.com/r/wangc94"><img src="/assets/img/docker.svg"></a>
+<a href="https://space.bilibili.com/87464892"><img src="/assets/img/bilibili-line.svg"></a>
+<a href="https://www.zhihu.com/people/wang-cong-93-6"><img src="/assets/img/知乎.svg"></a><br>
+**Research Interest**: ML & DL methods for spatiotemporal sequence prediction,
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
