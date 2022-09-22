@@ -19,12 +19,12 @@ social: false  # includes social icons at the bottom of the page
 Ph.D. from Tianjin University.<br>
 No.92 Weijin Road, Nankai District,Tianjin,300072<br>
 wangc@tju.edu.cn | wangc1994@outlook.com<br>
-<a href="https://orcid.org/0000-0003-2262-2874"><img src="/assets/img/orcid.svg" width=50px></a>
-<a href="https://github.com/wangc94"><img src="/assets/img/github-fill.svg"></a>
-<a href="https://hub.docker.com/r/wangc94"><img src="/assets/img/docker.svg"></a>
-<a href="https://space.bilibili.com/87464892"><img src="/assets/img/bilibili-line.svg"></a>
-<a href="https://www.zhihu.com/people/wang-cong-93-6"><img src="/assets/img/知乎.svg"></a><br>
-**Research Interest**: ML & DL methods for spatiotemporal sequence prediction, Unstructured data metrics & reconstruction
+<a href="https://orcid.org/0000-0003-2262-2874"><img src="/assets/img/orcid.svg" width=25px></a>
+<a href="https://github.com/wangc94"><img src="/assets/img/github-fill.svg" width=25px></a>
+<a href="https://hub.docker.com/r/wangc94"><img src="/assets/img/docker.svg" width=25px></a>
+<a href="https://space.bilibili.com/87464892"><img src="/assets/img/bilibili-line.svg" width=25px></a>
+<a href="https://www.zhihu.com/people/wang-cong-93-6"><img src="/assets/img/知乎.svg" width=25px></a><br>
+**Research Interest**: ML & DL methods for spatiotemporal sequence prediction, Unstructured data metric & reconstruction, Transfer learning, Severe weather nowcasting, Convective precipitation quantitative estimation, Weather radar extrapolation
 
 
 <!-- 
