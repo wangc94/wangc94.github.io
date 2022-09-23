@@ -6,34 +6,46 @@
   url: https://journals.aps.org/
 
 "GRSL":
-  url: https://journals.aps.org/
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
+  color: "#01b1c8"
 
 "气象":
-  url: https://journals.aps.org/
+  url: http://qxqk.nmc.cn/qx/ch/index.aspx
+  color: "#89cf13"
 
 "WCICA":
-  url: https://journals.aps.org/
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000387/all-proceedings
+  color: "#d79fcc"
 
 "RemoteSens":
-  url: https://journals.aps.org/
+  url: https://www.mdpi.com/journal/remotesensing
+  color: "#5493ba"
 
 "CCC":
-  url: https://journals.aps.org/
+  url: https://ieeexplore.ieee.org/xpl/conhome/9549237/proceeding
+  color: "#d79fcc"
+
 
 "MonWeatherRev":
-  url: https://journals.aps.org/
+  url: https://www.ametsoc.org/ams/index.cfm/publications/journals/monthly-weather-review/
+  color: "#89cf13"
 
 "Neurocomputing":
-  url: https://journals.aps.org/
+  url: https://www.sciencedirect.com/journal/neurocomputing
+  color: "#f57a01"
 
 "ApplSoftComput":
-  url: https://journals.aps.org/
+  url: https://www.journals.elsevier.com/applied-soft-computing
+  color: "#f57a01"
 
 "jstars":
-  url: https://journals.aps.org/
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443
+  color: "#01b1c8"
 
 "PRL":
-  url: https://journals.aps.org/
+  url: https://www.sciencedirect.com/journal/pattern-recognition-letters
+  color: "#f57a01"
 
 "AtmosRes":
-  url: https://journals.aps.org/
+  url: https://www.sciencedirect.com/journal/atmospheric-research
+  color: "#89cf13"

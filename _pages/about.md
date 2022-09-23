@@ -23,7 +23,7 @@ wangc@tju.edu.cn | wangc1994@outlook.com<br>
 <a href="https://github.com/wangc94"><img src="/assets/img/github-fill.svg" width=25px></a>
 <a href="https://hub.docker.com/r/wangc94"><img src="/assets/img/docker.svg" width=25px></a>
 <a href="https://space.bilibili.com/87464892"><img src="/assets/img/bilibili-line.svg" width=25px></a>
-<a href="https://www.zhihu.com/people/wang-cong-93-6"><img src="/assets/img/知乎.svg" width=25px></a><br>
+<a href="https://www.zhihu.com/people/wang-cong-93-6"><img src="/assets/img/知乎.svg" width=25px></a><br><br>
 **Research Interest**: ML & DL methods for spatiotemporal sequence prediction, Unstructured data metric & reconstruction, Transfer learning, Severe weather nowcasting, Convective precipitation quantitative estimation, Weather radar extrapolation
 
 
